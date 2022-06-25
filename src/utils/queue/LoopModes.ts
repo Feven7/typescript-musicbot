@@ -1,0 +1,1 @@
+export type LoopModes = 'off' | 'queue' | 'song'
